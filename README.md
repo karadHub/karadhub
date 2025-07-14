@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div style="background-color:#; padding: 20px 0; border-radius: 10px; ">
   <p style="text-align: center;">
-    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&&color=F44336&&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vaibhav!;DevOps+Engineer+%7C+CS+Graduate;Tech+Lover+%7C+MARVEL+Fan+%7C+Marathi+Soil" alt="Typing SVG"/>
+    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&&color=F44336&&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vaibhav!;DevOps+Engineer+%7C+CS+Graduate;Tech+Lover+%7C+MARVEL+Fan+%7C+Marathi+Soil" alt="Typing SVG"/>
   </p>
 
   <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
