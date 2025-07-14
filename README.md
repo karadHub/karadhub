@@ -1,18 +1,19 @@
 <!-- 🧠 Typing Intro -->
-<div style="background-color:#; padding: 20px 0; border-radius: 10px;">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div style="background-color:#; padding: 20px 0; border-radius: 10px; ">
   <p style="text-align: center;">
-    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&&color=FF6B6B&&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vaibhav!;DevOps+Engineer+%7C+CS+Graduate;Tech+Lover+%7C+MARVEL+Fan+%7C+Marathi+Soil" alt="Typing SVG"/>
+    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&&color=F44336&&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vaibhav!;DevOps+Engineer+%7C+CS+Graduate;Tech+Lover+%7C+MARVEL+Fan+%7C+Marathi+Soil" alt="Typing SVG"/>
   </p>
 
   <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-    <img src="assets/github-banner.jpg" alt="Vaibhav Cartoon Banner" width="100%" style="margin: 20px 0;" />
+    <img src="assets/github-banner.jpg" alt="Vaibhav Cartoon Banner" width="100%" style="margin: 20px 0; " />
   </p>
 </div>
 
 ---
 
 <!-- ABOUT ME Section -->
-<div align="center" style="background-color: #E1F7E7; border-radius: 15px; padding: 30px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<div align="center" style="background-color: #2e563aff; border-radius: 15px; padding: 30px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
 <div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
 
@@ -81,12 +82,12 @@ I automate workflows, manage cloud environments, and streamline CI/CD pipelines 
 
 <!-- CONTACTS -->
 
-<p align="center">
+<div align="center">
 <div style="background-color:#FFF8DC; border-radius: 15px; padding: 20px;">
 
 <h2 style="text-align: center; color: #2c3e50; margin-top: 40px;">🌐 Let's Connect</h2>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; padding: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; padding: 20px; justify-content: center; align-items: center;">
   <a href="mailto:karadhub@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -95,9 +96,6 @@ I automate workflows, manage cloud environments, and streamline CI/CD pipelines 
   </a>
   <a href="https://github.com/karadhub" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/karadhub" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://medium.com/@karadhub" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
