@@ -1,28 +1,17 @@
-<!-- 🧠 Typing Intro -->
+![](https://komarev.com/ghpvc/?username=karadhub&base=1000)<!-- 🧠 Typing Intro -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div style="background-color:#; padding: 20px 0; border-radius: 10px; ">
   <p style="text-align: center;">
-    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&&color=F44336&&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Vaibhav!;DevOps+Engineer+%7C+CS+Graduate;Tech+Lover+%7C+MARVEL+Fan+%7C+Marathi+Soil" alt="Typing SVG"/>
-  </p>
-
-  <p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-    <img src="assets/github-banner.jpg" alt="Vaibhav Cartoon Banner" width="100%" style="margin: 20px 0; " />
+    <img class="responsive-img" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&&color=F44336&&center=true&vCenter=true&width=800&lines=Hi+🙋‍♂️%2C+I'm+Vaibhav!;DevOps+Engineer;Marathi+Soil+🌱" alt="Typing SVG"/>
   </p>
 </div>
-
----
-
 <!-- ABOUT ME Section -->
 <div align="center" style="background-color: #2e563aff; border-radius: 15px; padding: 30px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
 <div style="flex: 1; min-width: 280px; max-width: 600px; text-align: left; padding: 10px; font-size: 16px;">
 
 ## 💬 About Me
-
-Hi! I’m **Vaibhav** — a DevOps-driven developer who thrives on clean deployments, secure APIs, and scalable infrastructure.
-I automate workflows, manage cloud environments, and streamline CI/CD pipelines to keep projects smooth and resilient.
-
-
+A DevOps-savvy developer fueled by clean deployments, secure APIs, and scalable infrastructure. I automate workflows, optimize cloud environments, and fine-tune CI/CD pipelines to deliver resilient, production-ready systems with precision.
 </div>
 
 <div style="flex: 1; min-width: 200px; text-align: center; padding: 10px;">
@@ -56,19 +45,6 @@ I automate workflows, manage cloud environments, and streamline CI/CD pipelines 
 </p>
 </div>
 
----
-
-<!-- GITHUB STATS -->
-<div style="background-color:#F0E8FF; border-radius: 15px; padding: 20px; margin-top: 20px;">
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karadhub&show_icons=true&theme=tokyonight&hide_title=true" />
-</p>
-</div>
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -77,36 +53,4 @@ I automate workflows, manage cloud environments, and streamline CI/CD pipelines 
     alt="GitHub Trophies"
   />
 </p>
-
----
-
-<!-- CONTACTS -->
-
-<div align="center">
-<div style="background-color:#FFF8DC; border-radius: 15px; padding: 20px;">
-
-<h2 style="text-align: center; color: #2c3e50; margin-top: 40px;">🌐 Let's Connect</h2>
-
-<div style="display: flex; flex-wrap: wrap; gap: 15px; padding: 20px; justify-content: center; align-items: center;">
-  <a href="mailto:karadhub@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/vaibhav-karad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/karadhub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@karadhub" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
-
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hhZWJ3NWNmeDJ3MWF2MmM4c3Z4bWJrYngwb21rcWRqanU2bDhpbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="140" />
-</p>
-</div>
-
----
 
