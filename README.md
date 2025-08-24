@@ -1,6 +1,8 @@
   
 
-![](https://komarev.com/ghpvc/?username=karadhub&base=1000)<!-- 🧠 Typing Intro -->
+![viewes](https://komarev.com/ghpvc/?username=karadhub&base=1000)
+
+<!-- 🧠 Typing Intro -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <div style="background-color:#; padding: 20px 0; border-radius: 10px; ">
   <p style="text-align: center;">
