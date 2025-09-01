@@ -1,14 +1,11 @@
 # 
 <div align="center">
 
-<!-- Hero Section with Glassmorphism Effect -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=300&section=header&text=VAIBHAV%20KARAD&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Problem%20Solver%20%7C%20AI%20Workflow%20Architect&descSize=18&descAlignY=60"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=300&section=header&text=VAIBHAV%20KARAD&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20%7C%20Problem%20Solver%20%7C%20AI%20Workflow%20Architect&descSize=18&descAlignY=60" alt="Header"/>
-</picture>
+<!-- Hero Section with Reliable Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:00D4FF&height=200&section=header&text=VAIBHAV%20KARAD&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Problem%20Solver%20%7C%20AI%20Workflow%20Architect&descSize=16&descAlignY=55"/>
 
 <!-- Dynamic Typing with Premium Styling -->
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=600&size=32&duration=4000&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+From+Maharashtra's+Heritage;💡+To+Global+Cloud+Innovation;⚡+Never+Say+'I+Don't+Know';🎯+AI-Driven+DevOps+Solutions" alt="Dynamic Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=6366F1&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🚀+From+Maharashtra's+Heritage+to+Global+Innovation;💡+Never+Say+'I+Don't+Know'+Mindset;⚡+AI-Driven+DevOps+Solutions;🎯+Building+Scalable+Cloud+Infrastructure" alt="Dynamic Typing"/>
 
 <!-- Profile Stats with Glassmorphism Cards -->
 <table>
