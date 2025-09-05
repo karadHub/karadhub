@@ -177,7 +177,7 @@ impact_metrics:
 
 ## 🏆 **ACHIEVEMENTS & RECOGNITION**
 
-<img src="https://github-profile-trophy.vercel.app/?username=karadhub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=-C" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=karadhub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=5&rank=-C" alt="GitHub Trophies"/>
 
 ### 🎯 **Professional Highlights**
 <table>
