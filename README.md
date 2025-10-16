@@ -54,7 +54,7 @@ class VaibhavKarad:
 - 🎯 **99.9%** Infrastructure Uptime
 - ⚡ **70%** Faster Deployments
 - 🔄 **100%** Automated Workflows
-- 📈 **50+** Technical Articles
+- 📈  Technical Articles
 
 </td>
 </tr>
