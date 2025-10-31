@@ -85,76 +85,6 @@ You know that feeling when your CI/CD pipeline works on the first try? Yeah, me 
 
 ☕ **Code & Coffee Enthusiast**: Fuel for the brain while debugging YAML files and pipelines.
 
-## My Tech Playground:
-
-- **Kubernetes**: Managing containers like they're my favorite pets (they kind of are).
-- **Google Cloud Platform**: Where the magic of scalability and reliability happens.
-- **Helm**: Because who doesn't love neat package management?
-- **Terraform**: IaC wizardry to keep things consistent and predictable.
-- **Jenkins**: Orchestrating CI/CD workflows from commit to deployment.
-- **Python**: The Swiss Army knife for automation and scripting.
-- **Bash**: Quick scripts for when Python feels like overkill.
-- **Grafana**: Visualizing metrics that tell compelling stories.
-
----
-
-When I'm not in front of a screen, I'm probably exploring Calgary, tinkering with side projects, or hunting for the perfect coffee spot. ☕
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/📝_Technical-Writer-6366F1?style=for-the-badge&labelColor=1E1B4B"/>
-<br><sub><b>Medium Publications</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_Open-Source-00D4FF?style=for-the-badge&labelColor=1E1B4B"/>
-<br><sub><b>Active Contributor</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🤖_AI-Workflows-FF6B9D?style=for-the-badge&labelColor=1E1B4B"/>
-<br><sub><b>Innovation Leader</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/☁️_GCP-Expert-FF9500?style=for-the-badge&labelColor=1E1B4B"/>
-<br><sub><b>Cloud Specialist</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- Current Focus with Interactive Elements -->
-<div align="center">
-
-## 🎯 **CURRENT FOCUS & INITIATIVES**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"/>
-<h3>🔭 Building</h3>
-<p><em>Open-source DevOps tools & AI-driven automation workflows</em></p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100"/>
-<h3>🌱 Learning</h3>
-<p><em>Advanced Kubernetes patterns, GitOps, & Cloud-native AI integration</em></p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100"/>
-<h3>✍️ Writing</h3>
-<p><em>Technical deep-dives on GCP, DevOps best practices, & AI workflows</em></p>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100"/>
-<h3>🤝 Collaborating</h3>
-<p><em>Always open to innovative DevOps & infrastructure challenges</em></p>
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -162,28 +92,6 @@ When I'm not in front of a screen, I'm probably exploring Calgary, tinkering wit
 
 ### 💬 **Open for Opportunities:**
 
-`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Technical Writing` • `Open Source Collaboration`
+`Senior DevOps Engineer` • `Platform Engineering` • `Site Reliability Engineering` • `Cloud Architecture` • `Technical Writing`
 
-</div>
-
----
-
-<!-- Footer with Animated Quote -->
-<div align="center">
-
-### 🌟 **PHILOSOPHY**
-
-> _"From the historic battlefields of Maharashtra 🏛️ to the infinite possibilities of cloud technology ☁️
-> **Every challenge is just a puzzle waiting to be solved with the right mindset** 🧩"_
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
-
-**⚡ Remember:** _In the world of DevOps, there are no problems - only solutions we haven't discovered yet!_
-
-</div>
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,25,30&height=120&section=footer&text=Thanks%20for%20the%20visit!%20Let's%20build%20something%20amazing%20together%20🚀&fontSize=16&fontColor=fff&animation=twinkling"/>
 </div>
